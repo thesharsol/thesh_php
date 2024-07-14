@@ -1,0 +1,29 @@
+{
+    "name": "thesh/thesh",
+    "description": "the most simple php framework",
+    "keywords": [
+        "framework",
+        "thesh",
+        "php"
+    ],
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "BEBE EPEE Ivan Sampi",
+            "email": "epeeivan@gmail.com",
+            "role": "maintainer"
+        }
+    ],
+    "require": {
+        "php": "^8.2",
+        "thesh/thesh": "^1.0.2"
+    },
+    "minimum-stability": "stable",
+    "prefer-stable": true
+}
