@@ -24,7 +24,7 @@
             </div>
             <div class="flex space-x-2">
                 <a href="" class="bg-slate-200  block p-2 rounded h-min"><?=lang("more")?></a>
-                <a href="" class="bg-primary-100 text-white  block p-2 rounded h-min"><?=lang("doc")?></a>
+                <a href="" class="bg-primary-100 text-white  block p-2 round-ed h-min"><?=lang("doc")?></a>
             </div>
         </div>
 
